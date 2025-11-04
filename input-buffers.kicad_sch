@@ -1,0 +1,137 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e2171c8d-087c-4867-af34-2a176d4c2402")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 76.2)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "504cf8a2-1c83-4fcb-8659-967252628976")
+		(property "Sheetname" "Klon Centaur"
+			(at 25.4 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input-buffers-klon-centaur.kicad_sch"
+			(at 25.4 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "guitar-effect-components"
+				(path "/fab8fd4c-8a3b-4785-8dd9-fe88b60458c3/2e7c1244-c891-4715-8e56-eead9137cc37"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "853f9880-aa0c-48ff-b05f-423e7ded957e")
+		(property "Sheetname" "Tube Screamer"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input-buffers-tube-screamer.kicad_sch"
+			(at 25.4 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "guitar-effect-components"
+				(path "/fab8fd4c-8a3b-4785-8dd9-fe88b60458c3/2e7c1244-c891-4715-8e56-eead9137cc37"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 50.8)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df1f2fb4-391e-4f60-bc1e-462cdae3e59c")
+		(property "Sheetname" "EQD Palisades"
+			(at 25.4 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input-buffers-eqd-palisades.kicad_sch"
+			(at 25.4 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "guitar-effect-components"
+				(path "/fab8fd4c-8a3b-4785-8dd9-fe88b60458c3/2e7c1244-c891-4715-8e56-eead9137cc37"
+					(page "3")
+				)
+			)
+		)
+	)
+)
